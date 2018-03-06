@@ -1,2 +1,4 @@
 # hello-world
-first-repo
+
+Sanju Thakur 
+Linux System Administrator 
